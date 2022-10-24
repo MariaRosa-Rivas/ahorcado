@@ -1,0 +1,11 @@
+
+*#ahorcado{
+    height:247px;
+    width: 165px;
+    background-image: url('./imagenes/ahorcado.jpg');
+
+}
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(255, 245, 251);
+}
